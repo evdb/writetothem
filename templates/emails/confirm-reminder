@@ -1,5 +1,7 @@
 (This is a reminder email; perhaps the first one got lost?)
 
+Blah blah.
+
 Please click on the link below to confirm that you wish WriteToThem.com to send
 the letter copied at the bottom of this email to
 <?=$values['recipient_name']?>, your <?=$values['recipient_position']?>:
